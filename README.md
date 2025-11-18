@@ -36,6 +36,12 @@ The **Employee Attrition Insights Dashboard** is an interactive Power BI report 
 
 ---
 
+## HR Attrition Dashboard Preview
+
+![Dashboard Preview](https://github.com/tajfareedsyed/hr-attrition-insights/blob/main/Visuals/Dasboard.jpeg)
+
+---
+
 ### ⚙️ Tools & Technologies
 - **Power BI Desktop** – Data visualization  
 - **Microsoft Excel / CSV** – Data source  
